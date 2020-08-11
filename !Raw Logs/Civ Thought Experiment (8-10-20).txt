@@ -1,0 +1,28 @@
+Crater City
+Special Ability: "Ancient Capital" Specialty districts around the capital provide +1 faith, culture, and gold per turn after discovering Civil Service. Spaceports provide +10 tourism and +5 diplomatic favor per turn. When in a Golden Age, cities exert loyalty and religious pressure twice as far.
+
+Unique Unit: "Rimguard" Replaces infantry. No oil requirement. Gains +5 defense against enemy melee and ranged units when fortified next to a mountain tile.
+
+Unique District: "Artifacter" Replaces Holy Site. Lower production cost. Artifacts can be placed here instead of an Archeological Museum, providing +1 faith ontop of the culture and tourism.
+
+Frontier Pact
+Special Ability: "Confederal System" Specialty districts provide +2 loyalty. Units gain +2 combat when nearby the city that recruited them. Units cost 50% less production if the city they're trained in has their specific strategic resource. After discovering Mass Mobilization, Builders and Military Engineers gain +1 build charges.
+
+Unique Unit: "Motorcav" Replaces Calvary. Requires iron instead of horses to train. Ignores the movement penalty of hills. Ignores enemy area of control. +1 movement in friendly territory. +2 movement on roads.
+
+Unique Tile Improvement: Bionic Extractors Unlocked after discovering Synthetic Materials. Built on mountain tiles. +4 production, +2 food, +1 gold.
+
+Crater City Leaders
+The Overseer
+Ability: "Strategic Allocation" Domestic Trade Routes grant +2 production, +1 science, +2 food, and +2 gold. International Trade Routes grant +1 production, +1 culture, and +4 gold. Traders gain +2 movement in friendly territory.
+
+Agenda: "Commercial Prosperity" Likes civilizations that send trade routes to Crater City. Dislikes civilizations who plunder trade routes.
+
+Elyse Starsailor
+Ability: "Rimside Diplomacy" Gain +1 City-State envoys per turn. When Suzerain of a City-State, the City-State exerts Crater City loyalty at 50% what it would for its own loyalty. After discovering Civil Service, other civilizations require 2 envoys more than Crater City to take Suzerain status.
+
+Agenda: "Reassert the Governor" Will try to become Suzerain of city-states. Dislikes civilizations that compete for Suzerain status. Will try to defend or liberate city states whenever possible.
+
+Frontier Pact Leader
+Mordecai the Founder
+Ability: "Defense of the Five Cities" Garrisoning a unit in a city or district grants +1 culture and +1 gold, and garrisoned units cost 50% their normal maintenance.
